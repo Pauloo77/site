@@ -8,7 +8,7 @@
 }
 
 body {
-    background: #a8a8a8;
+    background: url(https://bordalo.observador.pt/v2/q:84/rs:fill:2121:1192/c:2121:1192:nowe:0:111/plain/https://s3.observador.pt/wp-content/uploads/2021/11/29125127/investimentos-covid-1.jpg);
     min-height: 100vh;
     /*overflow-x: hidden; */
 }
@@ -27,14 +27,14 @@ header {
 
 .logo {
     font-size: 2em;
-    color: #003329;
+    color: #89CFF0;
     pointer-events: none;
     margin-right: 270px;
 }
 
 .navigation a {
     text-decoration: none;
-    color: #003329;
+    color: #89CFF0;
     padding: 6px 15px;
     border-radius: 20px;
     margin: 0 10px;
@@ -43,7 +43,7 @@ header {
 
 .navigation a:hover, 
 .navigation a.active   {
-    background: #003329;
+    background: #89CFF0;
     color: #fff;
 }
 
@@ -73,7 +73,7 @@ header {
 
 .sec {
     position: relative;
-    background: #003329;
+    background: #89CFF0;
     padding: 100px;
 }
 
@@ -93,7 +93,7 @@ header {
     width: 50px;
     height: 50px;
     background: transparent;
-    border: 2px solid #003329;
+    border: 2px solid #89CFF0;
     outline: none;
     border-radius: 20px;
     cursor: pointer;
@@ -105,7 +105,7 @@ header {
 }
 
 .navigation .btnlogin-popup:hover {
-    background: #003329;
+    background: #89CFF0;
     color: #162938;
 
 }
