@@ -191,9 +191,28 @@ header {
     color: #2aace8;
     font-size: 12px;
 }
+.form_container a:hover {
+    text-decoration: underline;
+}
 .checkbox{
     display: flex;
     column-gap: 8px;
     white-space: nowrap;
     font-size: 12px;
+}
+.checkbox input {
+    accent-color: 2aace8;
+}
+.checkbox label {
+    font-size: 12px;
+    cursor: pointer;
+    user-select: none;
+    color: #000;
+}
+.form_container .button {
+    background: #2aace8;
+    margin-top: 30px;
+    width: 100%;
+    padding: 10px 0;
+    border-radius: 10px;
 }
